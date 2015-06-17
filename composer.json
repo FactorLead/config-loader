@@ -1,0 +1,10 @@
+{
+    "name": "fl/config-loader",
+    "description": "FactorLead architecture configuration loader",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prelinker\\Config\\": "src"
+        }
+    }
+}
